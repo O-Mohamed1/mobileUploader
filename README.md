@@ -1,4 +1,6 @@
 # mobileUploader
+UNFINISHED, WORK IN PROGRESS
+
 Upload files and images directly from iPhone to PC via a locally hosted webpage
 
 I got tired of uploading first to google drive or OneDrive and then downloading to my PC, and the iTunes PC app is annoying, so I'm making my own way to transmit files via local router.
